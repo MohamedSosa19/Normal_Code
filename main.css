@@ -1,0 +1,29 @@
+h1{
+
+    text-align: center;
+}
+
+.product{
+  
+    width: 32.6%;
+    text-align: center;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+}
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.o{
+    font-size: 80px;
+    color: #09c;
+}
+button{
+    background-color: transparent;
+    border: 3px solid #09c;
+    padding: 10px 15px;
+    border-radius: 20px;
+
+}
